@@ -7,52 +7,41 @@ Exploring the digital world, scalable solutions
 ## 🛠️ Technical Skills
 
 ### **MERN Stack**
-- **Node.js**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-- **React**  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-
-- **MongoDB**  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-- **Express**  
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+| **Technology** | **Icon** |
+|:--------------:|:--------:|
+| **Node.js**    | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| **React**      | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) |
+| **MongoDB**    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Express**    | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
 
 ### **Next.js**
-- **Next.js**  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+| **Technology** | **Icon** |
+|:--------------:|:--------:|
+| **Next.js**    | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) |
 
 ### **Python**
-- **Python**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+| **Technology** | **Icon** |
+|:--------------:|:--------:|
+| **Python**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
 ### **Frameworks**
-- **Django**  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-
-- **Bootstrap**  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
-
-- **Tailwind CSS**  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+| **Technology** | **Icon** |
+|:--------------:|:--------:|
+| **Django**     | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) |
+| **Bootstrap**  | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap) |
+| **Tailwind CSS** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) |
 
 ---
 
 ### **Developer Tools**
-- **VS Code**  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-- **Sublime Text**  
-  ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
-
-- **Visual Studio**  
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-
-- **Google Colab**  
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+| **Tool**       | **Icon** |
+|:--------------:|:--------:|
+| **VS Code**    | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| **Sublime Text** | ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white) |
+| **Visual Studio** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) |
+| **Google Colab** | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
 
 ---
 
@@ -74,4 +63,6 @@ Exploring the digital world, scalable solutions
 
 - [LinkedIn](https://www.linkedin.com/in/kavin6063/)
 - [Twitter](https://twitter.com/kavin6063)
--[Instagram](https://twitter.com/minimalcodemind)
+- [Instagram](https://twitter.com/minimalcodemind)
+
+---
