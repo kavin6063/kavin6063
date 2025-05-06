@@ -51,6 +51,6 @@ Exploring the digital world, scalable solutions
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin6063/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kavin6063)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/minimalcodemind)
+- [LinkedIn](https://www.linkedin.com/in/kavin-t-l-05ab93213/)
+- [YouTube](http://youtube.com/@MinimalCodeMind)
+- [Instagram](https://www.instagram.com/minimalcodemind)
