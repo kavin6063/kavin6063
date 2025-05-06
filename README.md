@@ -66,3 +66,8 @@ Exploring the digital world, scalable solutions
 - [Instagram](https://twitter.com/minimalcodemind)
 
 ---
+
+## 🔖 Other Projects
+
+- **Project 1**: [Link to Project 1](https://github.com/kavin6063/project1)
+- **Project 2**: [Link to Project 2](https://github.com/kavin6063/project2)
