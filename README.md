@@ -12,15 +12,15 @@ Exploring the digital world, scalable solutions
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-### **Next.js**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-
-### **Python**
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
 ### **Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
